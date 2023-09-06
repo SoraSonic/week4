@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\.ahihi\week4\bai 7\bai 7\bin\Debug\bai 7.exe.config
+E:\LuuDuLieuSinhVien\.ahihi\week4\bai 7\bai 7\obj\Debug\bai 7.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\.ahihi\week4\bai 7\bai 7\bin\Debug\bai 7.exe
+E:\LuuDuLieuSinhVien\.ahihi\week4\bai 7\bai 7\bin\Debug\bai 7.pdb
+E:\LuuDuLieuSinhVien\.ahihi\week4\bai 7\bai 7\obj\Debug\bai 7.exe
+E:\LuuDuLieuSinhVien\.ahihi\week4\bai 7\bai 7\obj\Debug\bai 7.pdb
